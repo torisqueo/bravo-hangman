@@ -8,8 +8,8 @@ import random
 
 word_ops = ["clip", "mention it all", "morgan letters", "i made it nice", "go to sleep",
             "uncool", "cabaret", "summer should be fun", "giggly squad", "more life",
-            "send it", "activated", "loverboy", "goodbye kyle", "bravo bravo fucking bravo",
-            "morally corrupt faye resnick", "maloof hoof", "prostitution whore", "thick as thieves",
+            "send it", "activated", "loverboy", "goodbye kyle", 
+            "morally corrupt faye resnick", "maloof hoof", "thick as thieves",
             "it's about tom"]
 
 def hangman():
